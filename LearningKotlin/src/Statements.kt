@@ -32,7 +32,7 @@ fun main(){
     //no support for ternary operator in kotlin but we can use like this
     // Using if expression as a ternary operator
     val ternaryValue = if (isMist &&  temperature.equals(10)) "nice weather" else "sunlight"
-    println("--> "+ternaryValue)
+    println("-->: "+ternaryValue)
 
 
     val arrayList = (0..100).toCollection(ArrayList())
