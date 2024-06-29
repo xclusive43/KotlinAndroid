@@ -24,7 +24,7 @@ fun main(){
      **/
     val rangeExclusive = 1 until 5 // Represents the range from 1 to 4 (excluding 5)
     println("Ranges: ${rangeExclusive}")
-
+    1 until 5
 
     /**
      * 3. Using Ranges in Loops
